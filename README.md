@@ -1,6 +1,6 @@
 ## Hi, I'm Yunho 👋
 
-I like to solve unsolved problems. 
+I like to solve overlooked problems. 
 
 ### 🔭 I’m working on
 
