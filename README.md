@@ -4,8 +4,8 @@ I like to solve unsolved problems.
 
 ### 🔭 I’m working on
 
-- [SightWise](https://sightwise.com/) a startup dedicated to building best-in-class assistive technologies for the blind and visually impaired
-- [Alt Text Wizard](https://) a browser extension that generates alt text in real time
+- [SightWise](https://sightwise.com/) – a startup dedicated to building best-in-class assistive technologies for the blind and visually impaired
+- [Alt Text Wizard](https://) – a browser extension that generates alt text in real time
 
 
 ### ❤️‍🔥 I love working with
