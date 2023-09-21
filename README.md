@@ -33,7 +33,7 @@ I like to solve underserved problems.
 ### 🤔 I’m looking for help with
 
 - Simplifying the process of porting ML models to web/mobile environments
-- Studying Apache TVM, compilers, and high-performance computing
+- Studying [Apache TVM](https://github.com/apache/tvm), compilers, and high-performance computing
 - How to be less perfectionistic (& risk-averse) and more efficient
 
 
