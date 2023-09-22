@@ -50,7 +50,7 @@ I like to solve underserved problems.
   </a>
 </div>
 
-### 🌎 Find me around the web:
+### 🌎 Around the web:
 
 - [Tech Blog](https://yunhocho.com/)
 - [Photo Blog](https://unsplash.com/@yunhocho)
