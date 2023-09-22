@@ -2,6 +2,9 @@
 
 I like to solve underserved problems. 
 
+> I am looking for an internship @ **Spring** '24 / **Summer** '24!  
+> If you are recruiting or building something cool, please reach out :)
+
 ### 🔭 I’m working on
 
 - [SightWise](https://sightwise.com/) – a startup dedicated to building best-in-class assistive technologies for the blind and visually impaired.
@@ -39,21 +42,20 @@ I like to solve underserved problems.
 
 ### 📫 Let's talk!
 
+> I am always down for a coffee chat! Just leave me a message.
+
 <div display="flex">
   <a href="https://www.linkedin.com/in/-yunho-cho/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
-<!--
 ### 🌎 Find me around the web:
 
-- LinkedIn
-- Technical Blog
-- Photography BLog
+- [Tech Blog](https://yunhocho.com/)
+- [Photo Blog](https://unsplash.com/@yunhocho)
 - Personal Blog
--->
 
-### ⚡ Fun fact
+### ⚡ Fun fact?
 
-I'm most definitely a cat person.
+I'm a cat person.
