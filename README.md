@@ -1,6 +1,6 @@
 ## Hi, I'm Yunho 👋
 
-I like to solve underserved problems. 
+I have a passion in solving underserved problems. 
 
 > I am looking for an internship @ **Spring** '24 / **Summer** '24!  
 > If you are recruiting or building something cool, please reach out :)
