@@ -57,5 +57,3 @@ I have a passion in solving underserved problems.
 - Personal Blog
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunho-c&bg_color=30,3e5172,536d9c,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&include_all_commits=true&count_private=true)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=yunho-c&theme=gruvbox&no-frame=true&margin-w=4)
