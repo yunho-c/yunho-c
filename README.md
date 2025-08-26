@@ -21,7 +21,7 @@ I am a generalist with lots of different interests—and love delving into new, 
 That said, my "area of expertise" (in which I spent enough time to build substantial skillsets) are: 
 - inference optimization of machine learning algorithms (for on-device / edge inference)
 - training and tuning of large transformer models, and infusing different encoders for multi-modality (e.g., 3D point cloud)
-- building software systems in general (web, app, backend/database, CLI tools, and a hint of memory-safe systems-level programs)
+- building software systems in general (web, app, backend/database, CLI tools, and a hint of systems-level programs)
 
 ### ❤️‍🔥 I love working with
 
