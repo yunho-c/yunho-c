@@ -1,6 +1,6 @@
 ## Hi, I'm Yunho 👋
 
-I am passionate about tackling underserved problems. 
+I am an engineer who is passionate about tackling underserved problems. 
 
 ### 🔭 I’m working on
 
