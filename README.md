@@ -82,7 +82,7 @@ So far, I have encountered a few important topics that fit into this description
 
 - **Assistive technologies that can enhance the quality of life of individuals with sensory impairments**
   - The world we live in are not designed with sensory impairment in mind. This includes roads, products, interfaces, even schools and public buildings.
-    - Our society presents loads more challenges and safety risks for them, while allowing them less opportunity for success. 
+    - Our society presents loads more challenges and safety risks for them, while allowing them less opportunity for success (e.g., in schools / jobs). 
   - We have **lots** of room for improvement in this end, as a society and as a field (of engineering).
     - A part of this are societal/infrastructural issues, but modern technology has a lot to offer to help with respect to frustrations that commonly arise during [activities of daily living (ADLs)](https://en.wikipedia.org/wiki/Activities_of_daily_living).
   - For example: visual impairment is a lot more common than people realize, and a lot more detrimental than people realize.
@@ -90,3 +90,5 @@ So far, I have encountered a few important topics that fit into this description
     - Projects like [Project Astra](https://deepmind.google/models/project-astra/) are very exciting!
 
 I plan to keep working really hard on stuff like this. 
+
+If I can ever build a product with a positive societal impact like the [Dot Pad](https://pad.dotincorp.com), I will consider my life a success on my deathbed. 
