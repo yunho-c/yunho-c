@@ -8,13 +8,13 @@ I am passionate about tackling underserved problems.
 - [PoDoFo](https://github.com/yunho-c/podofo) — an open source, feature-packed PDF app for modern working professionals.
 - [Audiobookify](https://github.com/yunho-c/audiobookify) — an open source audiobook generator (TTS) with extremely high quality voices that runs fully on-device. 
 
-### ⏳ I used to work on...
+### ⏳ I used to work on
 
 - [SightWise](https://sightwise.com/) – a startup dedicated to building best-in-class assistive technologies for the blind and visually impaired.
 - [Alt Text Wizard](https://) – a browser extension that generates alt text in real time using multimodal LLMs.
 - A bunch of other (hopefully) [interesting side projects](https://github.com/yunho-c?tab=repositories&q=&type=source&language=&sort=)!
 
-### 🛠️ I’m good at
+### 🛠️ I’m good(?) at...
 
 I am a generalist with lots of different interests—and love delving into new, unfamiliar sub-fields of engineering all of the time.
 
