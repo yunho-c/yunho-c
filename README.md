@@ -20,9 +20,11 @@ I am an engineer who is passionate about tackling underserved problems.
 
 I am a generalist with a diverse set of interests—and love delving into new, unfamiliar sub-fields of engineering *all of the time*.
 
-That said, my "area of expertise" (in which I spent enough time to build substantial skillsets) are: 
-- inference optimization of machine learning algorithms (for on-device / edge inference)
+That said, my area of expertise (in which I spent enough time to build substantial skillsets) are: 
+- perception, control, and motion planning for robotic systems
 - training and tuning of large transformer models, and infusing different encoders for multi-modality (e.g., 3D point cloud)
+  - vision-language models (VLMs)!
+- inference optimization of machine learning algorithms (for on-device / edge inference)
 - building software systems in general (web, app, backend/database, CLI tools, and a hint of systems-level programs)
 
 ### ❤️‍🔥 I love working with
