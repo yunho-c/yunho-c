@@ -72,7 +72,7 @@ That said, my "area of expertise" (in which I spent enough time to build substan
 
 ### 🌠 I envision...
 
-My life goal is to contribute to the world by working on things that deserve—but fail to—catch the attention of engineers and industry.
+My life goal is to contribute to the world by working on things that deserve—but fail to—catch the attention of the industry.
 
 So far, I have encountered a few important topics that fit into this description in my life: 
 
