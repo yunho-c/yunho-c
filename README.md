@@ -27,12 +27,13 @@ That said, my "area of expertise" (in which I spent enough time to build substan
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-000?style=for-the-badge&logo=nuxtdotjs" alt="Nuxt.js"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/ROS%202-22649A?style=for-the-badge&logo=ROS&logoColor=FFF" alt="ROS"/>
 </div>
 
 
@@ -40,8 +41,6 @@ That said, my "area of expertise" (in which I spent enough time to build substan
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Apache_TVM-3C3C3D?style=for-the-badge&logo=ApacheTVM&logoColor=white" alt="Apache TVM"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </div>
 
 
