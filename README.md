@@ -44,21 +44,6 @@ That said, my "area of expertise" (in which I spent enough time to build substan
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </div>
 
-### 🌠 I envision...
-
-My life goal is to contribute to the world by working on things that deserve—but fail to—catch the attention of engineers and industry.
-
-So far, I have encountered a few important topics that fit into this description in my life: 
-
-- **Access to high-quality knowledge content for non-English speakers**
-  - An unfair amount of academic lectures and articles are strictly available in English.
-  - We are equipped with powerful machine translation technologies as a society, but these have not been deployed to end-user tools to where people can comfortably translate textbooks, lectures, and assignments to learn in their own language.
-
-- **Assistive technologies that can enhance the quality of life of individuals with sensory impairments**
-  - We have **lots** of room for improvement in this end, as a society and as a field (of engineering).
-    - A part of this are societal/infrastructural issues, but modern technology has a lot to offer to help with respect to frustrations that commonly arise during [activities of daily living (ADLs)](https://en.wikipedia.org/wiki/Activities_of_daily_living).
-
-I plan to keep working really hard on stuff like this for the rest of my life. 
 
 ### 🤔 I’m looking for help with
 
@@ -84,3 +69,20 @@ I plan to keep working really hard on stuff like this for the rest of my life.
 - [Personal Blog](https://blog.yunhocho.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunho-c&bg_color=30,3e5172,536d9c,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&include_all_commits=true&count_private=true)
+
+
+### 🌠 I envision...
+
+My life goal is to contribute to the world by working on things that deserve—but fail to—catch the attention of engineers and industry.
+
+So far, I have encountered a few important topics that fit into this description in my life: 
+
+- **Access to high-quality knowledge content for non-English speakers**
+  - An unfair amount of academic lectures and articles are strictly available in English.
+  - We are equipped with powerful machine translation technologies as a society, but these have not been deployed to end-user tools to where people can comfortably translate textbooks, lectures, and assignments to learn in their own language.
+
+- **Assistive technologies that can enhance the quality of life of individuals with sensory impairments**
+  - We have **lots** of room for improvement in this end, as a society and as a field (of engineering).
+    - A part of this are societal/infrastructural issues, but modern technology has a lot to offer to help with respect to frustrations that commonly arise during [activities of daily living (ADLs)](https://en.wikipedia.org/wiki/Activities_of_daily_living).
+
+I plan to keep working really hard on stuff like this for the rest of my life. 
