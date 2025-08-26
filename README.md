@@ -16,7 +16,7 @@ I am passionate about tackling underserved problems.
 
 ### 🛠️ I’m good(?) at...
 
-I am a generalist with lots of different interests—and love delving into new, unfamiliar sub-fields of engineering *all of the time*.
+I am a generalist with a diverse set of interests—and love delving into new, unfamiliar sub-fields of engineering *all of the time*.
 
 That said, my "area of expertise" (in which I spent enough time to build substantial skillsets) are: 
 - inference optimization of machine learning algorithms (for on-device / edge inference)
