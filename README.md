@@ -84,4 +84,4 @@ So far, I have encountered a few important topics that fit into this description
   - We have **lots** of room for improvement in this end, as a society and as a field (of engineering).
     - A part of this are societal/infrastructural issues, but modern technology has a lot to offer to help with respect to frustrations that commonly arise during [activities of daily living (ADLs)](https://en.wikipedia.org/wiki/Activities_of_daily_living).
 
-I plan to keep working really hard on stuff like this for the rest of my life. 
+I plan to keep working really hard on stuff like this. 
