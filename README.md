@@ -1,5 +1,7 @@
 ## Hi, I'm Yunho 👋
 
+> pronounced like `you-know`!
+
 I am an engineer who is passionate about tackling underserved problems. 
 
 ### 🔭 I’m working on
