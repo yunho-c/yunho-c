@@ -91,4 +91,4 @@ So far, I have encountered a few important topics that fit into this description
 
 I plan to keep working really hard on stuff like this. 
 
-If I can ever build a product with a positive societal impact like the [Dot Pad](https://pad.dotincorp.com), I will consider my life a success on my deathbed. 
+If I can ever build a product with a positive societal impact like the [Dot Pad](https://pad.dotincorp.com), I will consider my life a big success on my deathbed. 
